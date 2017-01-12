@@ -1,7 +1,7 @@
-Symfony Standard Edition
+DigiJadoo App
 ========================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony
+Welcome to the DigiJadoo Standard Edition - a fully-functional Symfony
 application that you can use as the skeleton for your new applications.
 
 For details on how to download and get started with Symfony, see the
